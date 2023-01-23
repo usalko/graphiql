@@ -29,7 +29,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "graphiql-code-exporter": "^3.0.3"
+    "graphiql-code-exporter": "git+https://github.com/usalko/graphiql-core-exporter-dist.git#js"
   },
   "peerDependencies": {
     "graphql": "^15.5.0 || ^16.0.0",
